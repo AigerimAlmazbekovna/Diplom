@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  AigerimDiplom1
+
+  Created by Айгерим on 12.11.2024.
+  
+*/
+"Что у вас нового?" = "What's new with you?";
+"Создание поста" = "Creating a post";
+"Выход из поста" = "Leaving the post";
+"Действительно хотите выйти?" = "Do you really want to get out?";
+"Отмена" = "Cancel";
+"Да" = "Yes";
+"Имя" = "First name";
+"Фамилия" = "Second name" ;
+"Дата рождения" = "Day of birth";
+"Родной город" = "City";
+"Профессия" = "Profession";
+"Основная информация" = "Main information";
+"Введите имя" = "Please write your first name";
+"Введите фамилию" = "Please write your second name";
+"Введите родной город" = "Place of birth";
+"Введите профессию" = "Profession";
+"Сохранить" = "Save";
+"Внимание" = "Attention";
+"точно удалить фотографию?" = "Are you sure that you want to delate your photo?";
+"Нет" = "No";
+"Кого ищем?" = "Who are you looking for?";
+"Профиль" = "Profile";
+"Настройки" = "Settings";
+"Выход из профиля" = "Enter your profile";
+"Меню" = "Menu";
+"Поделиться" = "To share";
+"Подписчики" = "Followers";
+"Подписки" = "Subscribtions";
+"Поиск" = "Find";
+"Избранные посты" = "Favorite posts";
+"Главная" = "Main";
+"Сохраненные" = "Saved";
+"Информация" = "Information";
+"Не указанно" = "Not specified";
+"Новости" = "News";
+"Посты подписчиков" = "Posts of followers";
+"Подробная информация" = "Detail information";
+"Редактировать" = "Edit";
+"Сообщение" = "Message";
+"Подписаться" = "Subscribe";
+"Фото" = "Photo";
+"Отписаться" = "Unsubscribe";
+"Мои записи" = "My Posts";
+"Подтверждение регистрации" = "Confirmation of registration";
+"Введите код из SMS" = "Write code from message";
+"ЗАРЕГИСТИРОВАТЬСЯ" = "TO REGISTER";
+"ОШИБКА ВХОДА" = "ERROR";
+"Введите верный пароль" = "Please correct password";
+"Понятно" = "Undestood";
+"Введите номер" = "Write your phone number";
+"Ваш номер будет использоваться для входа в аккаунт" = "Your number will be used to log in to your account";
+"ДАЛЕЕ" = "NEXT";
+"Нажимая кнопку Далее Вы принимаете пользовательское Соглашение и политику конфедициальности " = "By clicking the Next button You accept the User Agreement and the privacy policy ";
+"ОШИБКА ВХОДА" = "ERROR";
+"уже есть аккаунт" = "already have an account";
+"С возвращением" = "Welcome back";
+"ПОДТВЕРДИТЬ" = "confirm";
+"ОШИБКА ВХОДА" = "Error";
+"Проверте пожалуйста правильность ввода своего номера телефона" = "Please check that you entered your phone number correctly";
+"Войти" = "Enter";
+"Мои записи" = "My notes";
